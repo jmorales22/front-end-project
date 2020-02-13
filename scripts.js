@@ -6,7 +6,7 @@ fetch(url, {
     method: "GET",
     credentials: 'same-origin',
     headers: {
-        "user-key": "7b8d1375f69ce2684e7f3aab5f1c2987",
+        "user-key": ,
         "Content-type": "application/json"
     }
 })
