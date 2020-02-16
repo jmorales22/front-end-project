@@ -1,4 +1,12 @@
+
+.display-3 {
+    color: red;
+}
+
+
 .card-img-top {
+    display: block;
+    object-fit: cover;
     height: 150px;
-    width: 253px;
+    max-width: 100%;
 }
